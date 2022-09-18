@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-my name is chris ariagno! i'm a senior over at the university of kansas specalizing in backend development and control systems research. i've been lucky enough to intern at some of the greatest companies including google, riskiq, and smithville school district. i have also done freelance work mostly specalizing in online shopping bots, web scraping, and trading bots in tf2. i am also an alum of frc 1806, so if you have any questions about our robots, feel free to ask!
+my name is chris ariagno! i'm a graduate of the university of kansas with a computer science and math degree. i'm currently at google working on google drive
+
+for any inqueries please contact me at chris@ariagno.com
